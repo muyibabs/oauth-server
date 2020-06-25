@@ -1,0 +1,22 @@
+server:
+  port: 8282
+#spring:
+#  security:
+#    user:
+#      name: oauth
+#      password: oauth123
+#      roles:
+#        - ADMIN
+#        - USER
+#security:
+#  oauth2:
+#    client:
+#      client-id: android
+#      client-secret: 2222-3333
+#      access-token-validity-seconds: 360
+#      authorized-grant-types: refresh_token,authorization_code,password,client_credentials
+#      scope:
+#        - READ
+#        - WRITE
+#    authorization:
+#      check-token-access: permitAll
